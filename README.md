@@ -1,5 +1,4 @@
-# optsamplespatial 
-## : Criterion-Guided Sequential Response Sampling for Spatial Data under Measurement Constraints
+# Criterion-Guided Sequential Response Sampling for Spatial Data under Measurement Constraints
 
 공간 데이터에서 측정 비용/표본 크기 제약이 있을 때, 어느 지점에서 반응변수를 측정할지 순차적으로 골라주는 표본설계(response sampling) 알고리즘 코드입니다. Pilot 표본만으로 얻는 최종 추정량이, 공분산 파라미터를 안다고 가정한 oracle-optimal 설계와 asymptotic하게 동일한 target-criterion 정확도를 가짐을 이론적으로 보이고, 이를 시뮬레이션으로 검증합니다.
 
