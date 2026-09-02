@@ -1,4 +1,4 @@
-# Criterion-Guided Sequential Response Sampling for Spatial Data under Measurement Constraints
+# Optimal Sampling in Spatial Data
 
 This repository contains code for a response sampling algorithm that sequentially selects which spatial locations to measure the response variable at, under measurement cost or sample size constraints. We show theoretically that the final estimator obtained from a pilot-only-based sequential design is asymptotically as accurate, in terms of the target criterion, as an oracle-optimal design that assumes the covariance parameters are known, and we verify this through simulation.
 
